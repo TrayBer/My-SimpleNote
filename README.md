@@ -1,15 +1,3 @@
-# ◇ 浏览器在线代理
-
-项目页面：https://github.com/EtherDream/jsproxy
-
-代理演示页面：https://jsproxy.ga/
-
-Google 搜索：https://jsproxy.ga/-----https://www.google.com
-
-# ◇ SS/SSR 服务商列表
-
-供应商列表及测速：https://github.com/DuyaoSS/SSR/issues/2
-
 # ◇ Shadowsocks 服务GCP搭建
 
 1）创建实例，地区选择台湾，防火墙同时选中「允许 HTTP 流量」、「允许 HTTPS 流量」，其它默认；
